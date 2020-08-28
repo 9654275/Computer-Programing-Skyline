@@ -1,5 +1,5 @@
 ## Welcome to Computer Programing 1
-![typing test]https://github.com/9654275/Computer-Programing-Skyline/blob/gh-pages/images/Screenshot%202020-08-26%20at%208.03.39%20AM.png?raw=true
+![typing test]https://github.com/9654275/Computer-Programing-Skyline/blob/gh-pages/images/Screenshot%202020-08-26%20at%208.03.39%20AM.png
 
 You can use the [editor on GitHub](https://github.com/9654275/Computer-Programing-Skyline/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
